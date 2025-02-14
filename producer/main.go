@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/protectgo-sensor-collection-server/internal/kafka"
+	"github.com/kmsdoit/protectgo-sensor-collection-server/internal/kafka"
 )
 
 func main() {

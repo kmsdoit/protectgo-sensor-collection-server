@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
-	"github.com/protectgo-sensor-collection-server/internal/storage/influxdb"
+	"github.com/kmsdoit/protectgo-sensor-collection-server/internal/storage/influxdb"
 	"math/rand"
 	"time"
 )

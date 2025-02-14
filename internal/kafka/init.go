@@ -2,8 +2,8 @@ package kafka
 
 import (
 	"github.com/confluentinc/confluent-kafka-go/kafka"
-	producer2 "github.com/protectgo-sensor-collection-server/internal/kafka/producer"
-	"github.com/protectgo-sensor-collection-server/internal/storage/influxdb"
+	producer2 "github.com/kmsdoit/protectgo-sensor-collection-server/internal/kafka/producer"
+	"github.com/kmsdoit/protectgo-sensor-collection-server/internal/storage/influxdb"
 	"sync"
 )
 
