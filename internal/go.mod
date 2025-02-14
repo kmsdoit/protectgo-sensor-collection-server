@@ -1,4 +1,4 @@
-module github.com/protectgo-sensor-collection-server/internal
+module github.com/kmsdoit/protectgo-sensor-collection-server/internal
 
 go 1.21.0
 
